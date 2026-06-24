@@ -1,4 +1,5 @@
 streamlit
 openai
 python-dotenv
-# ollama  # Local only - comment out for cloud
+requests
+# ollama  # Local only
